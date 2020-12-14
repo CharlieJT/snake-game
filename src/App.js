@@ -20,7 +20,7 @@ const getRandomCoordsForFood = snakeCoords => {
 const initialState = {
   snakeFood: getRandomCoordsForFood([5, 16]),
   direction: 'RIGHT',
-  snakeSpeed: 100,
+  snakeSpeed: 100000000,
   gamePlay: false,
   snakeCoords: [
     [5, 16]
