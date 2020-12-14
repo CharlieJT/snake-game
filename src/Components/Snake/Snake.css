@@ -1,0 +1,7 @@
+.Snake {
+    position: relative;
+    background-color: #000;
+    border: .25vmin solid #ccc;
+    border-radius: .5vmin;
+}
+  
